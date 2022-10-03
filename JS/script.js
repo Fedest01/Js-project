@@ -39,6 +39,7 @@ function multi(num4) {
 }
 console.log(multi(num4));
 //#endregion Funcion multiplicacion
+//#region Funcion division
 let num5 = 4;
 
 function div(num5) {
@@ -46,3 +47,4 @@ function div(num5) {
     return num5 / num5;
 }
 console.log(div(num5));
+//#endregion Funcion division
