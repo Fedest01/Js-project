@@ -13,3 +13,12 @@ function suma(num) {
     return num + num;
 }
 console.log(suma(num));
+
+let num2 = 4;
+let num3 = 2;
+
+function resta(num2, num3) {
+
+    return num2 - num3;
+}
+console.log(resta(num2, num3));
