@@ -19,6 +19,8 @@ function suma(num) {
 }
 console.log(suma(num));
 //#endregion Funcion suma
+
+//#region Funcion resta
 let num2 = 4;
 let num3 = 2;
 
@@ -27,7 +29,7 @@ function resta(num2, num3) {
     return num2 - num3;
 }
 console.log(resta(num2, num3));
-
+//#endregion Funcion resta
 let num4 = 4;
 
 function multi(num4) {
