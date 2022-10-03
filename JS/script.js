@@ -1,6 +1,8 @@
+//#region Variables let-var-const
 var nombre = "Federico";
 let apellido = "Estevez";
 const sexo = "Hombre";
+//#endregion Variables let-var-const
 
 console.log(nombre);
 console.log(apellido);
