@@ -10,6 +10,7 @@ console.log(apellido);
 console.log(sexo);
 //#endregion Consola
 
+//#region Funcion suma
 let num = 4;
 
 function suma(num) {
@@ -17,7 +18,7 @@ function suma(num) {
     return num + num;
 }
 console.log(suma(num));
-
+//#endregion Funcion suma
 let num2 = 4;
 let num3 = 2;
 
