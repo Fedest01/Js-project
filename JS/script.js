@@ -22,3 +22,11 @@ function resta(num2, num3) {
     return num2 - num3;
 }
 console.log(resta(num2, num3));
+
+let num4 = 4;
+
+function multi(num4) {
+
+    return num4 * num4;
+}
+console.log(multi(num4));
