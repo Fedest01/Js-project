@@ -30,3 +30,11 @@ function multi(num4) {
     return num4 * num4;
 }
 console.log(multi(num4));
+
+let num5 = 4;
+
+function div(num5) {
+
+    return num5 / num5;
+}
+console.log(div(num5));
