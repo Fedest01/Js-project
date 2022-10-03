@@ -30,6 +30,7 @@ function resta(num2, num3) {
 }
 console.log(resta(num2, num3));
 //#endregion Funcion resta
+//#region Funcion multiplicacion
 let num4 = 4;
 
 function multi(num4) {
@@ -37,7 +38,7 @@ function multi(num4) {
     return num4 * num4;
 }
 console.log(multi(num4));
-
+//#endregion Funcion multiplicacion
 let num5 = 4;
 
 function div(num5) {
