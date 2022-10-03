@@ -4,9 +4,11 @@ let apellido = "Estevez";
 const sexo = "Hombre";
 //#endregion Variables let-var-const
 
+//#region Consola
 console.log(nombre);
 console.log(apellido);
 console.log(sexo);
+//#endregion Consola
 
 let num = 4;
 
