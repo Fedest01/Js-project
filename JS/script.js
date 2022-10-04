@@ -48,3 +48,8 @@ function div(num5) {
 }
 console.log(div(num5));
 //#endregion Funcion division
+
+let nombres = ['Federico', 'Exequiel', 'Juan Roman'];
+let [a,b,c] = nombres;
+console.log(a, b, c);
+console.log(c, b, a);
